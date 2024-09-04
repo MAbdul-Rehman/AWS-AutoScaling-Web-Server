@@ -58,7 +58,6 @@ This project demonstrates how to set up an AWS Auto Scaling Group to automatical
 - Instances are scaled down during low traffic periods to save costs.
 
 ## Conclusion
-This project demonstrates the fundamental concepts of cloud infrastructure management, with a focus on scalability, security, and cost optimization. It's a great example to showcase in interviews or on your resume.
-
+This project demonstrates the fundamental concepts of cloud infrastructure management, with a focus on scalability, security, and cost optimization. 
 ## License
 [MIT](LICENSE)
