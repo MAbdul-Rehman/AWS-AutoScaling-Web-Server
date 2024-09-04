@@ -3,9 +3,6 @@
 ## Overview
 This project demonstrates how to set up an AWS Auto Scaling Group to automatically scale a web server based on traffic demands. It includes a secure network architecture with public and private subnets, an Application Load Balancer (ALB), and appropriate scaling policies.
 
-## Architecture Diagram
-![Architecture Diagram](diagrams/architecture-diagram.png)
-
 ## Features
 - Horizontal scaling with Auto Scaling Group
 - Secure infrastructure with private subnets and security groups
