@@ -36,7 +36,7 @@ This project demonstrates how to set up an AWS Auto Scaling Group to automatical
 ### Steps to Deploy
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/AWS-AutoScaling-Web-Server.git
+    git clone https://github.com/Muhammad-AbdulRehman-Aamer/AWS-AutoScaling-Web-Server.git
     cd AWS-AutoScaling-Web-Server
     ```
 2. Apply infrastructure (if using Terraform):
